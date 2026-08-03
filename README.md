@@ -118,6 +118,20 @@ hospital-emergency-room-excel-dashboard/
 
 ---
 
+## 📄 Project Presentation
+
+A PowerPoint presentation is included to explain the complete project workflow, including:
+
+- Business Requirements
+- Data Cleaning using Power Query
+- Data Modeling with Power Pivot
+- DAX Calculations
+- Dashboard Development
+- Key Insights
+- Final Dashboard
+
+File: [Hospital Emergency Room Dashboard Presentation](Hospital_Emergency_Room_Dashboard.pptx)
+
 ## 📁 Dataset
 
 The project uses a hospital emergency room dataset containing patient demographics, visit details, wait times, admission status, referrals, and satisfaction scores.
